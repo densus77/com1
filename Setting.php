@@ -12,11 +12,11 @@ $banner= "\033[1;31m╔═══════════════════
        ╝╚╝╚═╝ ╩   ╚  ╚═╝╩╚═  ╚═╝╩ ╩╩═╝╚═╝
                                  \033[0;38m『BOT.TERMUX』
 \033[1;31m╔════════════════════════════════════════════════╗
-\033[1;31m║Di produksi oleh : TEAM 8                                ║
-\033[1;31m║Di import oleh   : ALL MEMBER TEAM 8                     ║
-\033[1;31m║Video channel: TEAM 8                                    ║
-\033[1;31m║Telegram grup:@jancokau990                               ║
-\033[1;31m║Tempat Amal  : DE5KEzYV86qrDoNw7bN8F51Tkd2mbXZjMg        ║
+\033[1;31m║Di produksi oleh : TEAM 8                            ║
+\033[1;31m║Di import oleh   : ALL MEMBER TEAM 8                 ║
+\033[1;31m║Video channel: TEAM 8                                ║
+\033[1;31m║Telegram grup:@jancokau990                           ║
+\033[1;31m║Amal  : DE5KEzYV86qrDoNw7bN8F51Tkd2mbXZjMg        ║
 \033[1;31m╚════════════════════════════════════════════════╝
 ";
 
